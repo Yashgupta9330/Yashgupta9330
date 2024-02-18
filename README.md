@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&random=false&width=435&lines=YASH+GUPTA" alt="Typing SVG" /></a> <br>Web Development and AI/ML enthusiast<br>Learning Data Science<br>I am currently studying Btech in Cse(iot) from Institue of Engineering and managment<br>mail me : yaahg342@gmail.com
+### 👋 I am &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=03F7C3&multiline=true&random=false&width=435&height=44&lines=YASH+GUPTA)](https://git.io/typing-svg)
+- 🔭 Web Development and AI enthusiast
+- ⚡ Learning DATA SCIENCE
+- 🌱 I’m currently studying B.tech in CSE IoT from Institute of Engineering and Management Kolkata
+- 📫 mail me: yaahg342@gmail.com
 
 
 ## 🌐 Socials:
